@@ -1,0 +1,22 @@
+.sobre{
+    font-family: 'Exo', sans-serif;
+    color: #00b137;
+    overflow: auto;
+    height: 600px;
+    width: 80%;
+    margin: auto;
+    width: 80%;
+    padding: 50px;
+}
+
+.sobre h2{
+    display: inline-block;
+    font-size: 3em;
+    font-weight: bold;
+    text-shadow: 0 0 10px #00ff30;
+    margin: 50px 0;
+}
+.sobre p{
+    display: inline-block;
+    font-size: 36px;
+}
