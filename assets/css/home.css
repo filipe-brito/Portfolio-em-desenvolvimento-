@@ -1,12 +1,13 @@
 .home{
   position: relative;
   font-family: 'Exo', sans-serif;
-  overflow: auto;
+
   height: 600px;
   width: 80%;
   margin: auto;
 }
 .home__saudacao{
+
   display: inline-block;
   font-size: 2em;
   color: #00b137;
@@ -48,6 +49,7 @@
 .home__mascote{
   display: inline-block;
   position: absolute;
+  width: 80%;
   right: 50px;
   top: 250px;
 }
@@ -55,6 +57,7 @@
   display: inline-block;
   opacity: 50%;
   position: absolute;
+  width: 80%;
   right: 50px;
   top: 250px;
 }
